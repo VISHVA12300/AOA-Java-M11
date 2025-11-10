@@ -5,13 +5,14 @@
 To Write a Java program that takes an integer input N from the user and prints all the numbers from 1 to N, separated by spaces, on a single line..
 
 ## Algorithm
-1)Start
-2)Read input integer n from the user.
-3)Initialize a loop variable i to 1.
-4)Repeat the following steps while i ≤ n:
-5)Print the value of i followed by a space.
-6)Increment i by 1.
-7)End 
+1. Start  
+2. Read input integer `n` from the user.  
+3. Initialize a loop variable `i` to 1.  
+4. Repeat the following steps while `i ≤ n`:  
+5. Print the value of `i` followed by a space.  
+6. Increment `i` by 1.  
+7. End  
+
 
 ## Program:
 ```
@@ -19,7 +20,7 @@ To Write a Java program that takes an integer input N from the user and prints a
 Developed by: JANARTHANAN S
 Register Number:  212222040058
 */
-/*
+
 import java.util.*;
 
 public class Main
@@ -36,7 +37,7 @@ public class Main
         }
     }
 }
-*/
+
 ```
 
 ## Output:
